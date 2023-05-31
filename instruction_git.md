@@ -45,3 +45,7 @@ diff test
 pls let there be a conflict 
 
 if you create file .gitignore and put file name inside, then this file will not be tracked by git.
+
+result: five branches created and merged with one succsessfull conflict.
+first branch deleted
+

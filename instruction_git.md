@@ -38,5 +38,5 @@ diff test
 
 создает ветку
 
-
+conflict
 

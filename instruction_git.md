@@ -1,5 +1,5 @@
 # Git instruction
-
+![picture](picture_git.jpeg)
 *System of version control git if for...*
 
 ## Creation of local repository
@@ -30,3 +30,4 @@ diff test
 - git diff \<hash1> \<hash2> (показывает разницу между двумя комитами, можно даже сказать вектор изменений от первого ко второму)
 
 ### Second homework
+

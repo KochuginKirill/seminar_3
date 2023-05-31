@@ -32,4 +32,4 @@ diff test
 ### Second homework
 
     git branch
-(показывает ветки)
+(показывает  ветки)

@@ -41,7 +41,7 @@ diff test
     git merge <branch_name>
 
 помещает изменения в той ветке что указана в команде в текущую ветку 
-
-
-
+dsadasd
+dasdasd
+dsadasdas
 

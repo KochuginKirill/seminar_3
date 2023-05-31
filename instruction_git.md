@@ -44,4 +44,4 @@ diff test
 
 pls let there be a conflict 
 
-
+if you create file .gitignore and put file name inside, then this file will not be tracked by git.

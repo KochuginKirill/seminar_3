@@ -33,3 +33,10 @@ diff test
 
     git branch
 (показывает  ветки)
+
+    git branch \<name>
+
+создает ветку
+
+
+

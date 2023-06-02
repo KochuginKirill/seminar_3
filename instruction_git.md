@@ -9,8 +9,6 @@
     git init
 
 
-diff test
-
 
 - git init (создает репозиторий)
 - git status (текущий статус репозитория)

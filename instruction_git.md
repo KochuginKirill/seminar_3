@@ -49,3 +49,7 @@ if you create file .gitignore and put file name inside, then this file will not 
 result: five branches created and merged with one succsessfull conflict.
 first branch deleted
 
+## Удаленные репозитории
+
+
+
